@@ -1,7 +1,12 @@
-# CPS-researcher-test
+# CPS-researcher-test  <img src="https://ain17002254.files.wordpress.com/2017/09/3923-researchanddevelopmentbanner.jpg?w=150" />
+
 Тестовое задание для кандидатов на должность CPS resercher.
+ - Пункты заданий расположены в порядке возрастания сложности. Выполнять можно любое понравившееся задания, столько пунктов сколько сможете/захотитею
+- Предпочтительно решать задачи использую Python3 (Tensorflow для работы с нейросетями).
+- Рассуждения по решению аналетичнских заданий можно оформить от руки, но желательно представить результаты в PDF  с оформленым выводом (LaTeX или MathType).
 
 ## 1. Задание с теоретико-математическим смещением. (Оптимизация)
+
 Заданы две функции:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=$$&space;f_1(x,y)=\frac{1}{2}-\frac{\sin^2(\sqrt{x^2&plus;y^2})-\frac{1}{2}}{1&plus;\frac{x^2&plus;y^2}{1000}}&space;,&space;x,y&space;\in&space;\mathbb{R}$$" target="_blank"><img src="https://latex.codecogs.com/gif.latex?$$&space;f_1(x,y)=\frac{1}{2}-\frac{\sin^2(\sqrt{x^2&plus;y^2})-\frac{1}{2}}{1&plus;\frac{x^2&plus;y^2}{1000}}&space;,&space;x,y&space;\in&space;\mathbb{R}$$" title="$$ f_1(x,y)=\frac{1}{2}-\frac{\sin^2(\sqrt{x^2+y^2})-\frac{1}{2}}{1+\frac{x^2+y^2}{1000}} , x,y \in \mathbb{R}$$" /></a>
